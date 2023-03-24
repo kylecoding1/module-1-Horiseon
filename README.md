@@ -8,7 +8,7 @@ website for a marketing company that adheres to accessibility standards and is e
 
 ## Installation
 
-download this repository
+download repository
 
 ## Usage
 
