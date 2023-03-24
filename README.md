@@ -12,7 +12,7 @@ download repository
 
 ## Usage
 
- HTML
+HTML
 CSS
 
 ## Project links 
