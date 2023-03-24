@@ -21,3 +21,4 @@ GIthub repository link :
 https://github.com/kylecoding1/module-1-Horiseon
 
 Deployed Application :
+https://kylecoding1.github.io/module-1-Horiseon/
